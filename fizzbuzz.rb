@@ -15,3 +15,6 @@ else
   print "Please include a number greater than 0 as a file argument\n"
   false
 end
+
+#example
+#ruby fizzbuzz.rb 100
