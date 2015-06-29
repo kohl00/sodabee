@@ -1,4 +1,9 @@
 
+#how I chose this 'quiz'
+# In irb
+#(1..156).to_a.sample
+#result : 126
+
 if ARGV[0].class === 'Number' && ARGV.length == 1 && ARGV[0].to_i > 0
    max = ARGV[0].to_i
 
